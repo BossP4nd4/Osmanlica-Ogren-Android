@@ -1,0 +1,14 @@
+{
+  "version": "0.4.0 (5)",
+  "published": "2026-10-20",
+  "catalog": "published-2026.10.19.1",
+  "lessonCount": 38,
+  "exerciseCount": 874,
+  "contentVariants": [
+    "Hafif içerik",
+    "Tam kitaplık"
+  ],
+  "guide": "README.md",
+  "files": "DOSYA-ENVANTERI.json",
+  "note": "İndirmeler Releases sayfasındadır. 15 Ekim sürümü geçmiş yayın olarak korunur."
+}

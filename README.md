@@ -1,90 +1,75 @@
 # Osmanlıca · Android
 
-**Osmanlıca okumayı öğrenmek için dersler, kitaplar, sözlük ve aralıklı tekrar.**
+**Osmanlıca okumayı dersler, kaynak açıklamaları ve uygulamalı çalışmalarla öğren.**
 
-Android 8.0 ve üzeri · Sürüm 0.2.1 (3) · İçerikler kurulduktan sonra çevrimdışı kullanım
+**Güncel: 0.4.0 (5)** · Android 8.0+ · 20 Ekim 2026 yayını
 
-[Apple / iPhone sürümü](https://github.com/BossP4nd4/Osmanlica-Ogren) · [Tüm indirmeler](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/tag/v0.2.1)
+[iPhone / iPad sürümü](https://github.com/BossP4nd4/Osmanlica-Ogren-Apple) · [Tüm indirmeler](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/tag/v0.4.0)
 
-## Başlamak için yalnızca iki dosya indir
+## Başlamak için: APK + yalnız bir içerik ZIP’i
 
-**Mac, Xcode veya Android Studio gerekmez. İki dosyayı Android telefonuna veya tabletine indir.** Yaklaşık **6 GB boş alan** ayır.
+**Telefonuna önce APK’yı, sonra hafif veya tam içerik paketinden yalnız birini indir. Mac veya Android Studio gerekmez.**
 
-| Sıra | İndir | Ne işe yarar? |
+| Dosya | İndirme boyutu | Gerekli mi? |
 | --- | --- | --- |
-| 1 | **[⬇ Osmanlica-Android.apk — yaklaşık 18 MB](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.2.1/Osmanlica-Android.apk)** | Telefonuna kuracağın uygulama. |
-| 2 | **[⬇ Osmanlica-Android-Icerik.zip — yaklaşık 2,12 GB](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.2.1/Osmanlica-Android-Icerik.zip)** | Ders kitapları ve sözlük kaynakları. **ZIP'i açma; uygulamanın içinden seç.** |
+| [⬇ Uygulamayı indir (APK)](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.4.0/Osmanlica-Android.apk) | 19.8 MB | Evet; iki içerik seçeneğinde de aynı APK |
+| [⬇ Hafif içerik](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.4.0/Osmanlica-Android-Hafif-Icerik.zip) | 502.8 MB | Derslere odaklanmak için bunu seç |
+| [⬇ Tam kitaplık](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.4.0/Osmanlica-Android-Tam-Kitaplik.zip) | 2124.8 MB | Bütün kitap sayfaları için bunu seç |
 
-> GitHub'ın **Code → Download ZIP** veya **Source code (zip / tar.gz)** seçenekleri bu iki dosyanın yerine geçmez. Yukarıdaki iki bağlantıyı kullan.
+> **Android’de içerik ZIP’ini açma. Uygulamadan ZIP dosyasını seç.** Sözlük bu paketlerin içinde; ayrıca sözlük indirmen gerekmez.
+> GitHub’ın **Code → Download ZIP** ve otomatik **Source code** indirmeleri uygulama kurulumu için yeterli değildir.
 
-## 1. Uygulamayı kur
+## İlk kez kuruyorsan
 
-1. Telefonda **Dosyalar → İndirilenler** bölümünü aç.
-2. **Osmanlica-Android.apk** dosyasına dokun.
-3. Android bu kaynaktan kuruluma izin istiyorsa ekrandaki **Ayarlar** bağlantısından yalnız kullandığın tarayıcı / Dosyalar uygulaması için **Bu kaynaktan izin ver** seçeneğini aç. Geri dönüp **Yükle**'ye dokun. Menü adları telefona göre değişebilir; ek bir sistem doğrulaması çıkarsa Android'in yönergelerini izle.
-4. Kurulum bitince **Aç**'a dokun. İlk açılışta içerik kurulum ekranını görmelisin.
+1. APK’yı telefonda **Dosyalar → İndirilenler** üzerinden aç ve **Yükle**’ye dokun. Android izin isterse yalnız kullandığın tarayıcı veya Dosyalar uygulaması için ekrandaki kurulum yönergelerini izle.
+2. Osmanlıca’yı aç. **Hafif içerik** veya **Tam kitaplık** seçeneğini seç.
+3. **İçerik paketini kur / tamamla** düğmesine dokun ve seçimine uygun ZIP’i göster. ZIP’i önceden çıkartma, içindeki PDF’leri tek tek seçme.
+4. Kontrol ve kurulum tamamlanana kadar uygulamayı açık tut. Yalnız seçenek düğmesine dokunmak kurulumu tamamlamaz.
+5. Bir ders, bir kitap sayfası ve Sözlük’te `kitab` aramasını açarak kurulumu kontrol et.
 
-## 2. Kitapları ve sözlüğü ekle
+**Depolama:** Hafif kurulum Android 15 sanal cihazında yaklaşık **582 MB** ölçüldü. Tam paketin açılmış kaynakları yaklaşık **2,27 GB**; uygulama ve kişisel veriler buna eklenir. Kurulum sırasında indirilen ZIP ve açılmış içerik birlikte yer kaplar: hafif için yaklaşık 2 GB, tam için yaklaşık 6 GB boş alan ayırmak pratik bir başlangıçtır; uygulamanın gerçek boş alan kontrolünü esas al.
 
-1. Osmanlıca uygulamasında **Çevrimdışı içerik paketini seç** düğmesine dokun.
-2. İndirdiğin **Osmanlica-Android-Icerik.zip** dosyasını seç. ZIP'i önceden açma, tek tek PDF seçme.
-3. Uygulama dosyaları doğrulayıp kurarken ön planda tut.
-4. **Bütün kitaplar çevrimdışı kullanıma hazır** mesajını bekle.
-5. **Dersler** bölümünden bir ders, **Kitaplık** bölümünden bir kitap aç. **Sözlük**'te `kitab` araması yaparak sonucu kontrol et.
+## Eski sürümden güncelliyorsan
 
-**Kurulum tamamlandı.** Aynı içerik paketinde kitaplar ve sözlük birlikte bulunur; iPhone sürümündeki gibi ayrıca sözlük paketi indirilmez.
+1. Eski uygulamada **Ayarlar → Tam yedeği dosyaya kaydet** ile yedek al ve uygulama dışında sakla.
+2. **Uygulamayı silmeden** yeni APK’yı açıp güncelle. Mevcut kurulumun aynı imzayı taşıması gerekir. İmza uyuşmazsa silerek çözmeye çalışma; önce yedeğini koru.
+3. Bu yayının **yeni içerik ZIP’lerinden birini** indir. Eski 0.2.1 içerik dosyasını yeni paket yerine kullanma.
+4. Ayarlar’dan içerik seçimini yapıp **İçerik paketini kur / tamamla** ile yeni ZIP’i kur. Kurulu satırında seçtiğin paket görünmeli.
+5. Notlarını, tekrarlarını ve birkaç dersini kontrol et. İçerik geçişinde not ve tekrar kayıtları korunur.
 
-## Uygulamada neler var?
+## Sonradan hafif / tam arasında geçiş
 
-- 38 ders ve 870 kaynak çalışması.
-- 55 kitap + 3 sözlük olmak üzere 58 özgün PDF.
-- 10.294 Latin madde başında sözlük araması ve özgün kaynak sayfasına geçiş.
-- Planlı tekrar, sınırsız çalışma, notlar, yer imleri ve okuma konumu.
-- Kişisel PDF / fotoğraf / bağlantı ekleme ve tam yedek.
+Ayarlar’da diğer seçeneği işaretle, o seçeneğe ait ZIP’i indirip kur. **Yeni seçim ancak doğrulama ve kurulum tamamlanınca etkinleşir.** İki ayrı APK kurma. Tam yedek kurulu içerik seçeneğini de içerir; geri yüklemeden önce önizlemeyi ve boş alanı kontrol et.
 
-Sözlük bütün PDF'lerin tam metin araması değildir. Kâmûs-ı Türkî tam PDF olarak okunur. Fotoğraflarda otomatik yazı tanıma yapılmaz.
+Kurulum ve kayıtlar doğrulandıktan sonra İndirilenler’deki aktarım APK/ZIP kopyalarını kaldırabilirsin; uygulamanın verilerini ve tek sağlam yedeğini silme.
 
-## Uygulamadan ekranlar
+## Bu güncellemede neler var?
 
-Android emülatöründen alınmış gerçek uygulama görüntüleri:
+- **38 ders ve 874 çalışma.** Derslere 171 kaynak açıklaması, 15 etkileşimli tablo ve 401 tablo hücresi; 149 kısa örnek ve bütünlüklü okumalar eşlik ediyor.
+- **Hafif içerik / Tam kitaplık:** aynı dersler, açıklamalar ve çalışmalar; farklı kitap erişimi ve depolama kullanımı.
+- Hafif içerik, düşük çözünürlüklü ekran görüntüsü veya ders özeti değildir. Dersler için gereken **573 özgün PDF sayfası**, özgün sayfa numaralarıyla korunur.
+- Tam kitaplık, 55 ders PDF’sinin **14.318 sayfasına** erişim sağlar. Üç sözlük PDF’si her iki seçenekte de tamdır; sözlük kapsamı bu güncellemede artırılmadı.
+- İlgili dosyalar doğrulanıp kurulduktan sonra içerik seçimi değişir. Hafifte erişilemeyen sayfalardaki yer imleri, tam kitaplığa dönüldüğünde kullanılmak üzere saklanır.
 
-<p><img src="https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.2.1/01-bugun.png" alt="Bugün ekranı" width="280"> <img src="https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.2.1/02-dersler.png" alt="Dersler ekranı" width="280"></p>
+## Hafif mi, tam mı?
 
-## Sık sorulanlar
+| İhtiyacın | Seçim |
+| --- | --- |
+| Dersleri ve alıştırmaları çalışmak; telefonda daha az yer kullanmak | **Hafif içerik** |
+| Kaynak kitapların ders dışında kalan sayfalarını da okumak | **Tam kitaplık** |
 
-**Yalnız APK'yı kurdum, kitaplar neden görünmüyor?**  
-APK uygulamadır; kitaplar büyük içerik ZIP'indedir. Yukarıdaki ikinci adımı tamamla.
+İki içerik paketini birlikte indirmen gerekmez. Sonradan diğerine geçebilirsin. Kişisel kayıtlar, yedekler, aktarım dosyaları ve önbellek ayrıca yer kaplar.
 
-**İçerik kurulumu yarıda kaldı.**  
-Boş alanı kontrol et ve aynı ZIP'i uygulamadan yeniden seç. Daha önce doğrulanmış dosyalar kullanılabilir.
+## Ekranlardan
 
-**ZIP'i açtım, hangisini seçeceğim?**  
-Açılmış klasörü değil, indirdiğin özgün `.zip` dosyasını seç. Gerekirse ZIP'i tekrar indir.
+<img src="https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.4.0/07-hafif-tam-secimi.png" width="270" alt="Hafif ve tam içerik seçimi"> <img src="https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.4.0/studio-table-light.png" width="270" alt="Etkileşimli tablo çalışma masası">
 
-**iPhone'a da kurulur mu?**  
-Hayır. APK Android içindir. [iPhone sürümü burada](https://github.com/BossP4nd4/Osmanlica-Ogren).
+## Kılavuz, kaynak kodu ve doğrulama
 
-**Güncellemede ne yapacağım?**  
-Önce uygulamanın **Ayarlar → Tam yedeği dosyaya kaydet** seçeneğinden yedek al. Aynı imzayla yayımlanan yeni APK mevcut kurulumun üzerine yüklenebilir. Kaynaklar değişmediyse içerik ZIP'ini yeniden kurmak gerekmez. Uygulamayı silmek kayıt kaybına yol açabilir.
+- [Görselli kurulum kılavuzu (PDF)](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.4.0/Osmanlica-Android-Kurulum-Kilavuzu.pdf). Özgün kurtarma arşivine ait klasör adları da geçer; GitHub’dan kurulum için yukarıdaki APK + tek içerik ZIP’i yeterlidir.
+- [Geliştiriciler için kaynak kodu](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.4.0/Osmanlica-Android-Kaynak-Kod.zip). ZIP’i aç, `Android` klasörünü Android Studio ile aç. Özel imzalama anahtarları/parolaları ve yerel derleme önbellekleri paylaşılmaz; kendi imzanı kullan.
+- [Dosya doğrulama değerleri (SHA-256)](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.4.0/SHA256SUMS.txt).
 
-## Görselli kılavuz ve test durumu
+**Test durumu:** Yerel sürüm raporuna göre 24 çekirdek ve 18 yerel Android testi geçti. İmzalı APK, Android 15 sanal cihazında dersler, sözlük ve hafif → tam → hafif geçişiyle sınandı. Fiziksel Android cihaz testi yapılmadı; önceki Android 8 testleri bu sürümün yeni testi değildir. Editoryal yeniden inceleme bayrakları bağımsız uzman onayı anlamına gelmez.
 
-[📖 Kurulum kılavuzunu indir (PDF)](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.2.1/Osmanlica-Android-Kurulum-Kilavuzu.pdf)
-
-Arşiv kayıtlarına göre Android 8 ve Android 15 emülatörlerinde uygulama, içerik, tekrar ve yedek işlemleri sınanmıştır. **Fiziksel Android telefonda test edilmemiştir.** Üreticiye özgü pil, izin ve TalkBack davranışları doğrulanmış değildir.
-
-PDF, özgün kişisel kurtarma arşivinin kılavuzudur. Orada anılan özel imzalama klasörü ve hazır bilgisayar araçları bu herkese açık kurulum yayınının parçası değildir. Yukarıdaki iki dosya telefon kurulumu için yeterlidir.
-
-## Geliştiriciler için kaynak kodu
-
-[Kaynak kodunu indir](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.2.1/Osmanlica-Android-Kaynak-Kod.zip). ZIP'i bilgisayarda açıp `Android` klasörünü Android Studio ile aç. Kaynak proje Kotlin / Jetpack Compose, Gradle ve yerel Rust tekrar motorunu içerir. Normal uygulama derlemesinde hazır üç ABI kütüphanesi bulunur.
-
-Proje Java 17, Android SDK 35 ve NDK 29.0.14206865 ayarlarını kullanır. Gerekli SDK ve bağımlılıkları geliştirme ortamında kur. Bu paylaşım için yeniden derleme testi yapılmadı; kurtarma arşivindeki bazı betikler özgün Mac araç dizinine göre hazırlanmıştır.
-
-**Özel imzalama anahtarı ve parolası paylaşılmaz.** Geliştirici kendi debug / release imzasını kullanmalıdır. Farklı imzalı derleme mevcut APK'nın üzerine güncelleme olarak kurulamaz. Kaynak bağımlılıklarının mevcut lisans dosyaları korunmuştur.
-
-## Dosya doğrulama
-
-[SHA256SUMS.txt](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.2.1/SHA256SUMS.txt) indirme dosyalarının SHA-256 değerlerini içerir. İçerik ZIP'i GitHub dosya sınırına uyacak şekilde yeniden sıkıştırılmıştır; içindeki 59 öğenin tamamı özgün ZIP ile hash düzeyinde karşılaştırılmıştır. Kitaplar ve manifest değiştirilmemiştir.
-
-[Sorun bildir](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/issues): Telefon modeli, Android sürümü, takıldığın adım ve hata mesajını yaz.
+**Sorun yaşıyorsan:** [Issues](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/issues) bölümünde telefon modelini, Android sürümünü, 0.4.0 sürümünü, hafif/tam seçimini ve hata metnini belirt. Özel yedeğini paylaşma.

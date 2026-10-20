@@ -1,0 +1,48 @@
+Güncel kurulum ve dosya seçimi:
+https://github.com/BossP4nd4/Osmanlica-Ogren-Android
+
+# Osmanlıca · Android
+
+**Osmanlıca okumayı dersler, kaynak açıklamaları ve uygulamalı çalışmalarla öğren.**
+
+**Güncel: 0.4.0 (5)** · Android 8.0+ · 20 Ekim 2026 yayını
+
+[iPhone / iPad sürümü](https://github.com/BossP4nd4/Osmanlica-Ogren-Apple) · [Tüm indirmeler](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/tag/v0.4.0)
+
+## Başlamak için: APK + yalnız bir içerik ZIP’i
+
+**Telefonuna önce APK’yı, sonra hafif veya tam içerik paketinden yalnız birini indir. Mac veya Android Studio gerekmez.**
+
+| Dosya | İndirme boyutu | Gerekli mi? |
+| --- | --- | --- |
+| [⬇ Uygulamayı indir (APK)](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.4.0/Osmanlica-Android.apk) | 19.8 MB | Evet; iki içerik seçeneğinde de aynı APK |
+| [⬇ Hafif içerik](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.4.0/Osmanlica-Android-Hafif-Icerik.zip) | 502.8 MB | Derslere odaklanmak için bunu seç |
+| [⬇ Tam kitaplık](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.4.0/Osmanlica-Android-Tam-Kitaplik.zip) | 2124.8 MB | Bütün kitap sayfaları için bunu seç |
+
+> **Android’de içerik ZIP’ini açma. Uygulamadan ZIP dosyasını seç.** Sözlük bu paketlerin içinde; ayrıca sözlük indirmen gerekmez.
+> GitHub’ın **Code → Download ZIP** ve otomatik **Source code** indirmeleri uygulama kurulumu için yeterli değildir.
+
+## İlk kez kuruyorsan
+
+1. APK’yı telefonda **Dosyalar → İndirilenler** üzerinden aç ve **Yükle**’ye dokun. Android izin isterse yalnız kullandığın tarayıcı veya Dosyalar uygulaması için ekrandaki kurulum yönergelerini izle.
+2. Osmanlıca’yı aç. **Hafif içerik** veya **Tam kitaplık** seçeneğini seç.
+3. **İçerik paketini kur / tamamla** düğmesine dokun ve seçimine uygun ZIP’i göster. ZIP’i önceden çıkartma, içindeki PDF’leri tek tek seçme.
+4. Kontrol ve kurulum tamamlanana kadar uygulamayı açık tut. Yalnız seçenek düğmesine dokunmak kurulumu tamamlamaz.
+5. Bir ders, bir kitap sayfası ve Sözlük’te `kitab` aramasını açarak kurulumu kontrol et.
+
+**Depolama:** Hafif kurulum Android 15 sanal cihazında yaklaşık **582 MB** ölçüldü. Tam paketin açılmış kaynakları yaklaşık **2,27 GB**; uygulama ve kişisel veriler buna eklenir. Kurulum sırasında indirilen ZIP ve açılmış içerik birlikte yer kaplar: hafif için yaklaşık 2 GB, tam için yaklaşık 6 GB boş alan ayırmak pratik bir başlangıçtır; uygulamanın gerçek boş alan kontrolünü esas al.
+
+## Eski sürümden güncelliyorsan
+
+1. Eski uygulamada **Ayarlar → Tam yedeği dosyaya kaydet** ile yedek al ve uygulama dışında sakla.
+2. **Uygulamayı silmeden** yeni APK’yı açıp güncelle. Mevcut kurulumun aynı imzayı taşıması gerekir. İmza uyuşmazsa silerek çözmeye çalışma; önce yedeğini koru.
+3. Bu yayının **yeni içerik ZIP’lerinden birini** indir. Eski 0.2.1 içerik dosyasını yeni paket yerine kullanma.
+4. Ayarlar’dan içerik seçimini yapıp **İçerik paketini kur / tamamla** ile yeni ZIP’i kur. Kurulu satırında seçtiğin paket görünmeli.
+5. Notlarını, tekrarlarını ve birkaç dersini kontrol et. İçerik geçişinde not ve tekrar kayıtları korunur.
+
+## Sonradan hafif / tam arasında geçiş
+
+Ayarlar’da diğer seçeneği işaretle, o seçeneğe ait ZIP’i indirip kur. **Yeni seçim ancak doğrulama ve kurulum tamamlanınca etkinleşir.** İki ayrı APK kurma. Tam yedek kurulu içerik seçeneğini de içerir; geri yüklemeden önce önizlemeyi ve boş alanı kontrol et.
+
+Kurulum ve kayıtlar doğrulandıktan sonra İndirilenler’deki aktarım APK/ZIP kopyalarını kaldırabilirsin; uygulamanın verilerini ve tek sağlam yedeğini silme.
+
