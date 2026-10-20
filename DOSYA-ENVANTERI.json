@@ -21,8 +21,8 @@
   },
   {
     "file": "Osmanlica-Android-Kaynak-Kod.zip",
-    "bytes": 9493272,
-    "sha256": "ea178a1ae56760e5c308ecd3920a2378fd69288bdd0ea214812bb7aad9572c5d"
+    "bytes": 9493595,
+    "sha256": "48f23620b49e88e1d1db951487d3b3f2fa0f4f56d15edbd6e7cbf227bc31b027"
   },
   {
     "file": "Osmanlica-Android-Kurulum-Kilavuzu.pdf",
@@ -36,12 +36,32 @@
   },
   {
     "file": "Osmanlica-Android.apk",
-    "bytes": 19825646,
-    "sha256": "47ab17cdb67f1ea77cc2b5d19dc2c37d8ab32d58e3b1a1b69c5215be4faaae2f"
+    "bytes": 19842026,
+    "sha256": "f394bcbe4d64d80ecbcd7ee72084bb07a33db114d8dec3af6f63bc78f3bf325a"
   },
   {
     "file": "studio-table-light.png",
     "bytes": 84304,
     "sha256": "c0b38d4acbfced4f78f705ad93df5b978a0b3999fceb6ac0a52f3d2219ba5486"
+  },
+  {
+    "file": "light-01-bugun.png",
+    "bytes": 204093,
+    "sha256": "15f02d2f1f64417842deb548c4082753c18a7c884de0da7d02c1d8e53e34a20b"
+  },
+  {
+    "file": "dark-03-ders.png",
+    "bytes": 195428,
+    "sha256": "8f6fa2668f3e9e1d451a715279bb0b5733192737691c415a48f806fc44bb7a72"
+  },
+  {
+    "file": "dark-01-bugun.png",
+    "bytes": 203610,
+    "sha256": "483bab20480e93b53d7dbb426a58bb9bd150f72451f3e8c9292f7b43e301a85e"
+  },
+  {
+    "file": "light-03-ders.png",
+    "bytes": 193752,
+    "sha256": "f4b23b4107b8df2425dd842b2614fc6cc69241589e744dadb67d9db2a2fc4948"
   }
 ]

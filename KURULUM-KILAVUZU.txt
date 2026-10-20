@@ -2,9 +2,9 @@
 
 **Osmanlıca okumayı dersler, kaynak açıklamaları ve uygulamalı çalışmalarla öğren.**
 
-**Güncel: 0.4.0 (5)** · Android 8.0+ · 20 Ekim 2026 yayını
+**Güncel: 0.4.2 (7)** · Android 8.0+ · 20 Ekim 2026 yayını
 
-[iPhone / iPad sürümü](https://github.com/BossP4nd4/Osmanlica-Ogren-Apple) · [Tüm indirmeler](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/tag/v0.4.0)
+[iPhone / iPad sürümü](https://github.com/BossP4nd4/Osmanlica-Ogren-Apple) · [Tüm indirmeler](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/tag/v0.4.2)
 
 ## Başlamak için: APK + yalnız bir içerik ZIP’i
 
@@ -12,7 +12,7 @@
 
 | Dosya | İndirme boyutu | Gerekli mi? |
 | --- | --- | --- |
-| [⬇ Uygulamayı indir (APK)](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.4.0/Osmanlica-Android.apk) | 19.8 MB | Evet; iki içerik seçeneğinde de aynı APK |
+| [⬇ Uygulamayı indir (APK)](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.4.2/Osmanlica-Android.apk) | 19.8 MB | Evet; iki içerik seçeneğinde de aynı APK |
 | [⬇ Hafif içerik](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.4.0/Osmanlica-Android-Hafif-Icerik.zip) | 502.8 MB | Derslere odaklanmak için bunu seç |
 | [⬇ Tam kitaplık](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.4.0/Osmanlica-Android-Tam-Kitaplik.zip) | 2124.8 MB | Bütün kitap sayfaları için bunu seç |
 
@@ -33,8 +33,8 @@
 
 1. Eski uygulamada **Ayarlar → Tam yedeği dosyaya kaydet** ile yedek al ve uygulama dışında sakla.
 2. **Uygulamayı silmeden** yeni APK’yı açıp güncelle. Mevcut kurulumun aynı imzayı taşıması gerekir. İmza uyuşmazsa silerek çözmeye çalışma; önce yedeğini koru.
-3. Bu yayının **yeni içerik ZIP’lerinden birini** indir. Eski 0.2.1 içerik dosyasını yeni paket yerine kullanma.
-4. Ayarlar’dan içerik seçimini yapıp **İçerik paketini kur / tamamla** ile yeni ZIP’i kur. Kurulu satırında seçtiğin paket görünmeli.
+3. **0.4.0 hafif/tam içeriği zaten kuruluysa kitapları yeniden indirme.** İçerik bu görsel güncellemede değişmedi. Daha eski 0.2.1 kurulumunda yukarıdaki içerik paketlerinden birini kur.
+4. İçerik kurulumu gerekiyorsa Ayarlar’dan içerik seçimini yapıp **İçerik paketini kur / tamamla** ile yeni ZIP’i kur. Kurulu satırında seçtiğin paket görünmeli.
 5. Notlarını, tekrarlarını ve birkaç dersini kontrol et. İçerik geçişinde not ve tekrar kayıtları korunur.
 
 ## Sonradan hafif / tam arasında geçiş
@@ -43,7 +43,11 @@ Ayarlar’da diğer seçeneği işaretle, o seçeneğe ait ZIP’i indirip kur. 
 
 Kurulum ve kayıtlar doğrulandıktan sonra İndirilenler’deki aktarım APK/ZIP kopyalarını kaldırabilirsin; uygulamanın verilerini ve tek sağlam yedeğini silme.
 
-## Bu güncellemede neler var?
+## Bordo görünüm güncellemesi
+
+Bordo, açık taş ve kömür paleti; açık/koyu görünüm, serif okuma metinleri ve yenilenen vurgular. Dersler, kaynak PDF’ler, cevaplar ve kişisel kayıt şeması değişmedi. Mevcut içerikle yalnız uygulamayı güncelleyebilirsin.
+
+## Öğrenme içeriği
 
 - **38 ders ve 874 çalışma.** Derslere 171 kaynak açıklaması, 15 etkileşimli tablo ve 401 tablo hücresi; 149 kısa örnek ve bütünlüklü okumalar eşlik ediyor.
 - **Hafif içerik / Tam kitaplık:** aynı dersler, açıklamalar ve çalışmalar; farklı kitap erişimi ve depolama kullanımı.
@@ -60,16 +64,18 @@ Kurulum ve kayıtlar doğrulandıktan sonra İndirilenler’deki aktarım APK/ZI
 
 İki içerik paketini birlikte indirmen gerekmez. Sonradan diğerine geçebilirsin. Kişisel kayıtlar, yedekler, aktarım dosyaları ve önbellek ayrıca yer kaplar.
 
-## Ekranlardan
+## Yeni bordo görünüm
 
-<img src="https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.4.0/07-hafif-tam-secimi.png" width="270" alt="Hafif ve tam içerik seçimi"> <img src="https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.4.0/studio-table-light.png" width="270" alt="Etkileşimli tablo çalışma masası">
+Android sanal cihazından; iOS ekran görüntüsü değildir.
+
+<img src="https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.4.2/light-01-bugun.png" width="270" alt="light 01-bugun"> <img src="https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.4.2/light-03-ders.png" width="270" alt="light 03-ders"> <img src="https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.4.2/dark-01-bugun.png" width="270" alt="dark 01-bugun"> <img src="https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.4.2/dark-03-ders.png" width="270" alt="dark 03-ders">
 
 ## Kılavuz, kaynak kodu ve doğrulama
 
-- [Görselli kurulum kılavuzu (PDF)](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.4.0/Osmanlica-Android-Kurulum-Kilavuzu.pdf). Özgün kurtarma arşivine ait klasör adları da geçer; GitHub’dan kurulum için yukarıdaki APK + tek içerik ZIP’i yeterlidir.
-- [Geliştiriciler için kaynak kodu](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.4.0/Osmanlica-Android-Kaynak-Kod.zip). ZIP’i aç, `Android` klasörünü Android Studio ile aç. Özel imzalama anahtarları/parolaları ve yerel derleme önbellekleri paylaşılmaz; kendi imzanı kullan.
-- [Dosya doğrulama değerleri (SHA-256)](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.4.0/SHA256SUMS.txt).
+- [Görselli kurulum kılavuzu (PDF)](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.4.0/Osmanlica-Android-Kurulum-Kilavuzu.pdf). Kılavuz ekranlarında önceki renkler bulunabilir; kurulum adımları geçerlidir. Özgün kurtarma arşivine ait klasör adları da geçer; GitHub’dan kurulum için yukarıdaki APK + tek içerik ZIP’i yeterlidir.
+- [Geliştiriciler için kaynak kodu](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.4.2/Osmanlica-Android-Kaynak-Kod.zip). ZIP’i aç, `Android` klasörünü Android Studio ile aç. Özel imzalama anahtarları/parolaları ve yerel derleme önbellekleri paylaşılmaz; kendi imzanı kullan.
+- [Dosya doğrulama değerleri (SHA-256)](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/releases/download/v0.4.2/SHA256SUMS.txt).
 
-**Test durumu:** Yerel sürüm raporuna göre 24 çekirdek ve 18 yerel Android testi geçti. İmzalı APK, Android 15 sanal cihazında dersler, sözlük ve hafif → tam → hafif geçişiyle sınandı. Fiziksel Android cihaz testi yapılmadı; önceki Android 8 testleri bu sürümün yeni testi değildir. Editoryal yeniden inceleme bayrakları bağımsız uzman onayı anlamına gelmez.
+**Test durumu:** Yerel rapora göre imzalı APK Android 15 sanal cihazında açık, koyu ve %160 yazı boyutuyla ders–sözlük–okuyucu akışında sınandı. 29 opak metin/zemin çiftinin en düşük kontrastı 5,40:1. Çekirdek testleri önbellekten geçti; bu renk değişikliğinde yeniden yürütülmedi. Fiziksel cihaz testi yapılmadı; önceki geniş içerik, yedek ve Android 8 denetimleri bu sürümde tekrarlanmış sayılmaz.
 
-**Sorun yaşıyorsan:** [Issues](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/issues) bölümünde telefon modelini, Android sürümünü, 0.4.0 sürümünü, hafif/tam seçimini ve hata metnini belirt. Özel yedeğini paylaşma.
+**Sorun yaşıyorsan:** [Issues](https://github.com/BossP4nd4/Osmanlica-Ogren-Android/issues) bölümünde telefon modelini, Android sürümünü, 0.4.2 sürümünü, hafif/tam seçimini ve hata metnini belirt. Özel yedeğini paylaşma.
